@@ -1,7 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.1.0"
   },
   "main": "server.js",
   "scripts": {
@@ -13,9 +14,14 @@
   },
   "version": "1.0.0",
   "description": "A Node.js project to learn npm package management concepts from freeCodeCamp",
-  "keywords": [],
+  "keywords": [
+    "node",
+    "npm",
+    "backend",
+    "freecodecamp"
+  ],
   "author": "Edewusi Babalola Martins",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
